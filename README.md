@@ -25,6 +25,9 @@ OPENAI_API_KEY = SUA API DA OPENAI ( Ou alguma chave de API de LLMs (Certifique-
 
 Se quiser monitorar todos as suas interações pelo LangSmith, certifique-se de adicionar:
 LANGCHAIN_TRACING_V2=true
+
 LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+
 LANGCHAIN_API_KEY="Sua api do langchain"
+
 LANGCHAIN_PROJECT="Nome do seu projeto no langsmith"
